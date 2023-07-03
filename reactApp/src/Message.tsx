@@ -1,4 +1,3 @@
-
 function Message(){
  const name = "Hekuran";
 if(name)
